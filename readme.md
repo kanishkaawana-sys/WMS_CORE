@@ -73,7 +73,3 @@ npm start
 | **Audit Trail** | Append-only ledger table | Guarantees non-repudiable history of all stock inflows, outflows, and adjustments. |
 
 ---
-
-## Contributors
-
-- **Apurvam Arya** ([@apurvamarya](https://github.com/apurvamarya))
